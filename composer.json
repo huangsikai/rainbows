@@ -1,0 +1,20 @@
+{
+    "name": "rainbows/framework",
+    "description": "Rainbows Framework",
+    "type": "library",
+    "require": {
+        "php": ">7.0.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rainbows\\Framework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sky",
+            "email": "506389622@qq.com"
+        }
+    ]
+}
