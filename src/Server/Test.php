@@ -1,6 +1,6 @@
 <?php
 
-namespace Rainbows\Framework;
+namespace Rainbows\Framework\Server;
 
 class Test
 {
